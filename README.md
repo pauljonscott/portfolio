@@ -1,3 +1,3 @@
 # portfolio
 
-A few user experince design work examples... from Senior Product Designer Paul Jon Scott.
+A few user experience design work examples... from Senior Product Designer Paul Jon Scott.
