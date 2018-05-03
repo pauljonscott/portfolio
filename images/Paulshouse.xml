@@ -1,8 +1,4 @@
-﻿<<PropertyListingActivity xmlns="http://api.trademe.co.nz/v1" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
-  <ListingId>1590320003</ListingId>
-  <WatcherCount>52</WatcherCount>
-  <EnquiryCount>4</EnquiryCount>
-  <DailyActivity>
+<DailyActivity>
      <DailyListingActivity>
         <Day>2018-04-03T00:00:00</Day>
         <NewViewCount>104</NewViewCount>
